@@ -12,7 +12,7 @@ For those that are not strictly structured (such as strings and comments), it is
 Modern assembly should use ASCII encoding, and non-ASCII characters should not appear in the source file.
 
 # Comments
-Modern assembly uses' '; "As a comment, the comment content should be separated by a space from the comment symbol.
+Modern assembly uses ```;``` As a comment, the comment content should be separated by a space from the comment symbol.
 
 # Other Suggestions
 - Using ASMP to import a modern assembled lib can greatly simplify your operation.
